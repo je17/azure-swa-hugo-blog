@@ -1,8 +1,3 @@
-# Provider block
-provider "azurerm" {
-  features {}
-}
-
 # Resources to deploy
 
 locals {
